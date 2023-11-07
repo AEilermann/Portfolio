@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(249, 226, 231);
+    margin: 0;
+}
+#vine{
+   margin-left: 45vw;
+   margin-right: 38vw;
+}
+#contact-section{
+    display: flex;
+    justify-content: center;
+    padding-top: 10vh;
+    height: 60vh;
+   
+}
+#img{
+    width: 350px;
+    height: 50vh;
+
+}
+#contact{
+    background-color: white;
+    height: 40vh;
+    margin-left: 20px;
+    border-top: 30px solid rgb(227, 171, 180);
+    border-bottom: 30px solid rgb(227, 171, 180);
+   padding-left: 5vw;
+   padding-right: 5vw;
+   padding-bottom: 5px;
+}
+#contact h2{
+    text-align: center;
+}
+#contact p{
+    text-align: center;
+}
+#contact a{
+    color: black;
+   padding: 10px;
+}
+#contact a:hover{
+    color: pink;
+}
+#bold{
+    font-weight: bold;
+    font-size: 20px;
+    color: pink;
+}
+#socials{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#home{
+    width: 30px;
+    float: right;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+#home:hover{
+    width: 35px;
+}

@@ -1,0 +1,165 @@
+body{
+    background: linear-gradient(to bottom,rgb(252, 236, 238), rgb(245, 190, 221)) ;
+    
+}
+#about-content{
+    margin: 0 auto;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 10vw;
+    margin-bottom: 10vw;
+    background-color: rgb(193, 149, 148);
+    border-radius: 30px;
+    box-shadow: -10px 0 10px rgba(197, 196, 196, 0.5), 10px 0 10px rgba(197, 194, 194, 0.5);
+}
+#plant{
+    width: 150px;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(223, 164, 209);
+    font-size: 25px;
+}
+#h1{
+    color: black;
+}
+#section1{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding-top: 20px;
+}
+#img1{
+    width: 200px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 100px;
+}
+#content{
+    padding-right: 160px;
+    padding-left: 20px;
+    max-width: 400px;
+    line-height: 2;
+}
+#section2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#icon{
+    padding-right: 150px;
+    padding-left: 50px;
+}
+#content2{
+    line-height: 2;
+    padding-right: 20px;
+}
+#content2 h3{
+    text-align: center;
+    font-family: cursive;
+}
+#section3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#content3{
+    line-height: 2;
+    padding-right: 160px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    max-width: 400px;
+}
+#content3 h3{
+    text-align: center;
+    font-family: cursive;
+}
+#img2{
+    width: 200px;
+    padding-right: 20px;
+    padding-top: 30px;
+}
+#empty{
+    border-top: 2px solid rgb(251, 209, 216);
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+#section4{
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+#section4 h3{
+    text-align: center;
+    font-family: cursive;
+}
+#section4 p{
+    text-align: center;
+    line-height: 2;
+}
+#section5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#img3{
+    width: 200px;
+    border-radius: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#content4, #content5{
+    line-height: 2;
+    padding: 30px;
+}
+#section6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#content6{
+    line-height: 2;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#content6 h1{
+    text-align: center;
+}
+#icon2{
+    width: 50px;
+    background-color:rgb(223, 164, 209);
+    margin-left: 50px;
+    border-radius: 20px;
+    padding: 10px;
+}
+#icon3{
+    width: 50px;
+    margin-right: 50px;
+    background-color:rgb(223, 164, 209);
+    border-radius: 20px;
+    padding: 10px;
+}
+#new{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+#home{
+    width: 30px;
+    float: right;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+#home:hover{
+    width: 35px;
+}

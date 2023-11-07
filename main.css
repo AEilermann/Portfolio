@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: linear-gradient(to bottom,rgb(252, 236, 238), rgb(245, 190, 221)) ;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+#body-content{
+    background-color: white;
+    border-radius: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 30px;
+    box-shadow: -10px 0 10px rgba(197, 196, 196, 0.5), 10px 0 10px rgba(197, 194, 194, 0.5);
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+nav li{
+padding-right: 20px;
+list-style: none;
+}
+#a{
+    color: black;
+    text-decoration: none;
+}
+#a:hover{
+    color: rgb(240, 175, 224);
+}
+#nav-img{
+    width: 20px;
+}
+.name a{
+    font-family: cursive;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+.name a:hover{
+    font-size: 17px;
+    color: rgb(240, 175, 224);
+    cursor: pointer;
+}
+#heading-content{
+    padding-right: 50px;
+    
+}
+#heading{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    width: 600px;
+    margin: 0 auto;
+}
+#heading h1{
+    font-size: 50px;
+}
+#heading p{
+    line-height: 2;
+    padding-top: 10px;
+}
+#web-span{
+    color: rgb(240, 175, 224);
+}
+#button{
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:  rgb(240, 175, 224);
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+#button a{
+    color: white;
+    text-decoration: none;
+}
+#button a:hover{
+    font-size: 15px;
+}
+#img1{
+    width: 300px;
+    border-radius: 200px 200px 400px 400px;
+}
+#plant{
+    width: 60px;
+    float: right;
+}
